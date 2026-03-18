@@ -40,7 +40,7 @@ GitHub Repo / Local Code
          ↓
   Cross-encoder Reranker     ms-marco-MiniLM precision boost
          ↓
-  Groq Llama 3 70B           cited, structured answers
+  Llama 3.3 70B Versatile    cited, structured answers
          ↓
   NLI Faithfulness Check     flags hallucinated sentences
          ↓
