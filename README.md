@@ -1,4 +1,4 @@
-# 🔍 CodeRAG — Chat With Any Codebase
+# CodeRAG — Chat With Any Codebase
 
 > Point it at any GitHub repo and ask questions in plain English. Get accurate, cited answers powered by CodeBERT, FAISS, and Groq Llama 3.
 
@@ -11,8 +11,6 @@
 ---
 
 ## Demo
-
-![CodeRAG Demo](docs/demo.png)
 
 Ask questions like:
 - *"What does this project do? Give me a high level overview."*
